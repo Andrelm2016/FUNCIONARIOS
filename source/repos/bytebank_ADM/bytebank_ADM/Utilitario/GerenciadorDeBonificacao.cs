@@ -15,6 +15,6 @@ namespace bytebank_ADM.Utilitario
         {
             this.TotalDeBonificacao += funcionario.GetBonificacao();
         }
-
+            
     }
 }
